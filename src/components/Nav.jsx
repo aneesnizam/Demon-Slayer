@@ -77,7 +77,7 @@ export default function Nav({ active = "/" }) {
             {/* Search and Action Button */}
             <div className="hidden md:flex items-center space-x-4">
               {/* Added transition class to the search icon for smooth hover */}
-              <button className="text-gray-300 hover:text-green-400 transition-colors">
+              <Link to={"/characters"} className="text-gray-300 hover:text-green-400 transition-colors">
                 {" "}
                 {/* <-- ADDED */}
                 <svg
@@ -94,9 +94,11 @@ export default function Nav({ active = "/" }) {
                     d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
                   />
                 </svg>
-              </button>
+              </Link>
               {/* The "Watch Now" button already had transition classes, so it's good! */}
-              <button
+              <a
+                href="https://www.crunchyroll.com/series/GY5P48XEY/demon-slayer-kimetsu-no-yaiba?srsltid=AfmBOopLUor55SiOYShXed1HdQg3Eb_aBdYrkpivD5EwMyRzD5pxq1te"
+                target="_blank"
                 className={`px-4 py-2 bg-gradient-to-r ${
                   active === "/demons"
                     ? "from-red-500 to-red-700 hover:from-red-600 hover:to-red-800"
@@ -104,7 +106,7 @@ export default function Nav({ active = "/" }) {
                 } text-white rounded-md transition-all duration-300 transform hover:scale-105 text-sm font-semibold`}
               >
                 Watch Now
-              </button>
+              </a>
             </div>
 
             {/* Mobile menu button */}

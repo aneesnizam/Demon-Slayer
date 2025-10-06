@@ -21,6 +21,7 @@ return () => clearTimeout(timer)
   return (
     <div >
       {loading? <Loading/> :
+      <>
          <Routes>
         <Route
           element={
@@ -30,7 +31,7 @@ return () => clearTimeout(timer)
             </>
           }
           path="/"
-        />
+          />
         <Route
           element={
             <>
@@ -39,7 +40,7 @@ return () => clearTimeout(timer)
             </>
           }
           path="/characters"
-        />
+          />
         <Route
           element={
             <>
@@ -48,7 +49,7 @@ return () => clearTimeout(timer)
             </>
           }
           path="/breathing"
-        />
+          />
            <Route
           element={
             <>
@@ -57,11 +58,18 @@ return () => clearTimeout(timer)
             </>
           }
           path="/demons"
-        />
+          />
+        
       </Routes>
       
+   <footer class="bg-gray-900 py-3">
+  <div class="text-center text-gray-400 text-xs space-y-1">
+    <p>© 2025 Demon Slayer | Fan Website</p>
+    <p>Made with ❤️ by Anees</p>
+  </div>
+</footer>
+          </>
       }
-   
     </div>
   );
 }
