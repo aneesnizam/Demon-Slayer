@@ -1,0 +1,1176 @@
+[
+  {
+    "id": 1,
+    "name": "Tanjiro Kamado",
+    "age": 16,
+    "gender": "Male",
+    "race": "Human",
+    "description": "Is the main protagonist of Demon Slayer. He joined the Demon Slayer Corp to find a remedy to turn his sister, Nezuko Kamado, back into a human and to hunt down and kill demons.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/1.webp",
+    "quote": "Work at it. All I can do is work hard! That´s the story of my life!",
+    "first_arc_appearance": {
+      "name": "Final Selection",
+      "description": "The first Arc of the series, focusing on Tanjiro Kamado´s path after his family was slaughtered. The Arc ends after he passes the Final Selection test and receives his Nichirin blade."
+    },
+    "affiliation": {
+      "name": "Demon Slayer",
+      "description": "Demon Slayers are members of the Demon Slayer Corps whose main job is to hunt and slay demons."
+    },
+    "combat_style": [
+      {
+        "id": 1,
+        "name": "Sun Breathing",
+        "description": "Breathing Style only known and taught by the Kamado Family, later revealed to be the first Breathing Style",
+        "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/sun-breathing.webp"
+      },
+      {
+        "id": 2,
+        "name": "Water Breathing",
+        "description": "Water Breathing is one of the five main Breathing Styles directly derived from Sun Breathing.",
+        "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/water-breathing.webp"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Nezuko Kamado",
+    "age": 14,
+    "gender": "Female",
+    "race": "Demon",
+    "description": "She is a demon and the younger sister of Tanjiro Kamado and one of the two remaining members of the Kamado family. Formerly a human, she was attacked and transformed into a demon by Muzan Kibutsuji.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/2.webp",
+    "quote": "Humans are to be protected and saved... I will never hurt them.",
+    "first_arc_appearance": {
+      "name": "Final Selection",
+      "description": "The first Arc of the series, focusing on Tanjiro Kamado´s path after his family was slaughtered. The Arc ends after he passes the Final Selection test and receives his Nichirin blade."
+    },
+    "affiliation": {
+      "name": "Demon Slayer",
+      "description": "Demon Slayers are members of the Demon Slayer Corps whose main job is to hunt and slay demons."
+    },
+    "combat_style": [
+      {
+        "id": 3,
+        "name": "Combustible Blood",
+        "description": "Nezuko´s Blood Demon Art allows her to combust her blood into pink-colored flames at will. Her flames have a special property which makes them exclusively harmful to demons.",
+        "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/combustible-blood.webp"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Giyu Tomioka",
+    "age": 21,
+    "gender": "Male",
+    "race": "Human",
+    "description": "He is a Demon Slayer of the Demon Slayer Corps and the current Water Hashira. He has a reserved personality and a very strong sense of justice.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/3.webp",
+    "quote": "Feel the rage. The powerful, pure rage of not being able to forgive will become your unswerving drive to take action.",
+    "first_arc_appearance": {
+      "name": "Final Selection",
+      "description": "The first Arc of the series, focusing on Tanjiro Kamado´s path after his family was slaughtered. The Arc ends after he passes the Final Selection test and receives his Nichirin blade."
+    },
+    "affiliation": {
+      "name": "Hashira",
+      "description": "The Hashira are the highest-ranking Demon Slayers in the Demon Slayer Corps. They protect humanity against the most dangerous threats that cannot be handled by other Demon Slayers."
+    },
+    "combat_style": [
+      {
+        "id": 2,
+        "name": "Water Breathing",
+        "description": "Water Breathing is one of the five main Breathing Styles directly derived from Sun Breathing.",
+        "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/water-breathing.webp"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Sakonji Urokodaki",
+    "age": 70,
+    "gender": "Male",
+    "race": "Human",
+    "description": "Sakonji Urokodaki is a retired member of the Demon Slayer Corps, having held the position of the previous Water Hashira. He is the main cultivator of the Water Breathing style, having trained Makomo, Sabito, Giyu Tomioka, and Tanjiro Kamado.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/4.webp",
+    "quote": "Remember to take a long breath so the oxygen flows into every cell in your body.",
+    "first_arc_appearance": {
+      "name": "Final Selection",
+      "description": "The first Arc of the series, focusing on Tanjiro Kamado´s path after his family was slaughtered. The Arc ends after he passes the Final Selection test and receives his Nichirin blade."
+    },
+    "affiliation": {
+      "name": "Cultivator",
+      "description": "A Cultivator is a skilled Demon Slayer who play a vital role in raising individuals to become Demon Slayers."
+    },
+    "combat_style": [
+      {
+        "id": 2,
+        "name": "Water Breathing",
+        "description": "Water Breathing is one of the five main Breathing Styles directly derived from Sun Breathing.",
+        "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/water-breathing.webp"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Sabito",
+    "age": 13,
+    "gender": "Male",
+    "race": "Human",
+    "description": "Sabito was a former apprentice of Sakonji Urokodaki. He appeared to assist Tanjiro Kamado in his preparations for the Final Selection exam.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/5.webp",
+    "quote": "You have to make sure you never forget any of the secrets Urokodaki taught you! Pound it into the marrow of your bones!",
+    "first_arc_appearance": {
+      "name": "Final Selection",
+      "description": "The first Arc of the series, focusing on Tanjiro Kamado´s path after his family was slaughtered. The Arc ends after he passes the Final Selection test and receives his Nichirin blade."
+    },
+    "affiliation": {
+      "name": "Demon Slayer",
+      "description": "Demon Slayers are members of the Demon Slayer Corps whose main job is to hunt and slay demons."
+    },
+    "combat_style": [
+      {
+        "id": 2,
+        "name": "Water Breathing",
+        "description": "Water Breathing is one of the five main Breathing Styles directly derived from Sun Breathing.",
+        "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/water-breathing.webp"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Makomo",
+    "age": 12,
+    "gender": "Female",
+    "race": "Human",
+    "description": "Makomo and Sabito were both orphaned from their respective families and adopted by Sakonji, who trained them both and permitted them to attend the Demon Slayer Corps´Final Selection.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/6.webp",
+    "quote": "Train until it kills you. Because really, when you get down to it, there´s nothing else you can do.",
+    "first_arc_appearance": {
+      "name": "Final Selection",
+      "description": "The first Arc of the series, focusing on Tanjiro Kamado´s path after his family was slaughtered. The Arc ends after he passes the Final Selection test and receives his Nichirin blade."
+    },
+    "affiliation": {
+      "name": "Demon Slayer",
+      "description": "Demon Slayers are members of the Demon Slayer Corps whose main job is to hunt and slay demons."
+    },
+    "combat_style": [
+      {
+        "id": 2,
+        "name": "Water Breathing",
+        "description": "Water Breathing is one of the five main Breathing Styles directly derived from Sun Breathing.",
+        "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/water-breathing.webp"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Hand Demon",
+    "age": 47,
+    "gender": "Male",
+    "race": "Demon",
+    "description": "The Hand Demon was the primary antagonist of the Final Selection Arc of Demon Slayer. He was a notorious demon who killed thirteen of Sakonji Urokodaki´s apprentices",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/7.webp",
+    "quote": "I´ve been here so long... that dynasties have risen and fallen! Again and again! All while I´ve been trapped here! Unforgivable! Unforgivable!",
+    "first_arc_appearance": {
+      "name": "Final Selection",
+      "description": "The first Arc of the series, focusing on Tanjiro Kamado´s path after his family was slaughtered. The Arc ends after he passes the Final Selection test and receives his Nichirin blade."
+    },
+    "affiliation": {
+      "name": "Demons",
+      "description": "Demons are a carnivorous whose primary diet is humans, they are also nocturnal as they are weak to sunlight. Demons have an abnormally powerful physical constitution and potent regenerative abilities."
+    },
+    "combat_style": [
+      {
+        "id": 5,
+        "name": "Flesh Manipulation",
+        "description": "Flesh Manipulation is a supernatural ability possessed by demons that allow them to alter and control their own flesh and body.",
+        "img": ""
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Genya Shinazugawa",
+    "age": 16,
+    "gender": "Male",
+    "race": "Human",
+    "description": "He is the younger brother of the Wind Hashira and as one of the five that survived Final Selection, Genya possesses a relatively strong foundation as a Demon Slayer even without utilizing a Breathing Style.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/8.webp",
+    "quote": "I´ll do it. I´m gonna do it. I have to do it. Think only about winning. I will not let my brother, or my master, or any of my comrades die!",
+    "first_arc_appearance": {
+      "name": "Final Selection",
+      "description": "The first Arc of the series, focusing on Tanjiro Kamado´s path after his family was slaughtered. The Arc ends after he passes the Final Selection test and receives his Nichirin blade."
+    },
+    "affiliation": {
+      "name": "Demon Slayer",
+      "description": "Demon Slayers are members of the Demon Slayer Corps whose main job is to hunt and slay demons."
+    },
+    "combat_style": [
+      {
+        "id": 6,
+        "name": "Dual Wielding",
+        "description": " Genya utilizes both a double-barreled shotgun with a Nichirin blade. He is shown to excel in blending both long-ranged and short-ranged combat",
+        "img": ""
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Zenitsu Agatsuma",
+    "age": 16,
+    "gender": "Male",
+    "race": "Human",
+    "description": "Zenitsu Agatsuma is one of the main characters of Demon Slayer and along with Inosuke Hashibira, a travelling companion of Tanjiro Kamado and Nezuko Kamado. He is also a Demon Slayer in the Demon Slayer Corps.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/9.webp",
+    "quote": "I hate myself more than anyone. I always think I have to get my act together, but I end up cowering, running away, sniveling. I want to change. I want to be a competent person.",
+    "first_arc_appearance": {
+      "name": "Final Selection",
+      "description": "The first Arc of the series, focusing on Tanjiro Kamado´s path after his family was slaughtered. The Arc ends after he passes the Final Selection test and receives his Nichirin blade."
+    },
+    "affiliation": {
+      "name": "Demon Slayer",
+      "description": "Demon Slayers are members of the Demon Slayer Corps whose main job is to hunt and slay demons."
+    },
+    "combat_style": [
+      {
+        "id": 4,
+        "name": "Thunder Breathing",
+        "description": "Thunder Breathing is a Breathing Style that mimics lightning, specifically swift strikes and movements akin to lightning ripping through the sky, and replicates it with the user´s movements, techniques and abilities.",
+        "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/thunder-breathing.webp"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Inosuke Hashibira",
+    "age": 15,
+    "gender": "Male",
+    "race": "Human",
+    "description": "Inosuke is short-tempered, confrontational, abrasive and proud. He always likes to think he is the strongest fighter in a situation, constantly challenging most people he comes across and wanting others to respect and praise him for his skill.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/10.webp",
+    "quote": "Everything that dies returns to the earth, but crying won´t bring any of them back, so no matter how frusturated you feel, don´t cry!",
+    "first_arc_appearance": {
+      "name": "Final Selection",
+      "description": "The first Arc of the series, focusing on Tanjiro Kamado´s path after his family was slaughtered. The Arc ends after he passes the Final Selection test and receives his Nichirin blade."
+    },
+    "affiliation": {
+      "name": "Demon Slayer",
+      "description": "Demon Slayers are members of the Demon Slayer Corps whose main job is to hunt and slay demons."
+    },
+    "combat_style": [
+      {
+        "id": 7,
+        "name": "Beast Breathing",
+        "description": " Beast Breathing is a Breathing Style that mimics beasts/wild animals, specifically their unpredictable, ferocious and wild nature, including movements, attacks and senses, and replicates it with the user´s movements, techniques and abilities.",
+        "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/beast-breathing.webp"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Aoi Kanzaki",
+    "age": 16,
+    "gender": "Female",
+    "race": "Human",
+    "description": "Aoi Kanzaki is a Demon Slayer of the Demon Slayer Corps. However, she works as a helper at the Butterfly Mansion, rather than taking to the front lines and fighting demons.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/11.webp",
+    "quote": "Compared to you guys, I´m not so important, so thanks aren´t necessary. I survived selection due to pure luck. Since then I´ve been afraid to fight, so I´m a coward.",
+    "first_arc_appearance": {
+      "name": "Final Selection",
+      "description": "The first Arc of the series, focusing on Tanjiro Kamado´s path after his family was slaughtered. The Arc ends after he passes the Final Selection test and receives his Nichirin blade."
+    },
+    "affiliation": {
+      "name": "Demon Slayer",
+      "description": "Demon Slayers are members of the Demon Slayer Corps whose main job is to hunt and slay demons."
+    },
+    "combat_style": [
+      {
+        "id": 2,
+        "name": "Water Breathing",
+        "description": "Water Breathing is one of the five main Breathing Styles directly derived from Sun Breathing.",
+        "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/water-breathing.webp"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Kanao Tsuyuri",
+    "age": 16,
+    "gender": "Female",
+    "race": "Human",
+    "description": "Kanao Tsuyuri is the adopted sister of Shinobu and Kanae Kocho.  She became unable to make decisions by herself and she has a coin to flip and decide which path to follow when she doesn´t know what to do.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/12.webp",
+    "quote": "Somehow I feel the people I care for and those important to me will still be alive tomorrow. But that´s just my hope and there´s no way I can promise that with any certainty.",
+    "first_arc_appearance": {
+      "name": "Final Selection",
+      "description": "The first Arc of the series, focusing on Tanjiro Kamado´s path after his family was slaughtered. The Arc ends after he passes the Final Selection test and receives his Nichirin blade."
+    },
+    "affiliation": {
+      "name": "Demon Slayer",
+      "description": "Demon Slayers are members of the Demon Slayer Corps whose main job is to hunt and slay demons."
+    },
+    "combat_style": [
+      {
+        "id": 8,
+        "name": "Flower Breathing",
+        "description": "Flower Breathing is a Breathing Style that mimics both perennial flowers and fruit blossoms and replicates them with the user´s movements, techniques, and abilities.",
+        "img": ""
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Swamp Demon",
+    "age": null,
+    "gender": "Male",
+    "race": "Demon",
+    "description": "He is the main antagonist of the Kidnapper´s Bog Arc. He was a demon who went through a rash of kidnappings during the first mission of Tanjiro Kamado for the Demon Slayer Corps.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/13.webp",
+    "quote": "Don´t interfere! You´ll ruin the girl´s freshness! She gets less and less tasty with each moment that passes!",
+    "first_arc_appearance": {
+      "name": "Kidnapper´s Bog Arc",
+      "description": "As Tanjiro begins to walk the path of the Demon Slayer, his search for the demon who murdered his family leads him to investigate the disappearances of young girls in a nearby town."
+    },
+    "affiliation": {
+      "name": "Demons",
+      "description": "Demons are a carnivorous whose primary diet is humans, they are also nocturnal as they are weak to sunlight. Demons have an abnormally powerful physical constitution and potent regenerative abilities."
+    },
+    "combat_style": [
+      {
+        "id": 9,
+        "name": "Swamp Domain",
+        "description": "The Swamp Demon was able to conjure a pocket swamp dimension in which he can navigate freely.",
+        "img": ""
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Muzan Kibutsuji",
+    "age": 10000,
+    "gender": "Male",
+    "race": "Demon",
+    "description": "Muzan Kibutsuji is the main antagonist of Demon Slayer. He is the Demon King, the progenitor of all other demons in existence, and the leader of the Twelve Kizuki, an organization made up of the twelve strongest demons under his direct command.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/14.webp",
+    "quote": "The one thing I hate is \"change\". Changes in circumstances. Changes in body. Changes in emotion. In most cases, every change is \"degradation\". It is decline. The one thing I like is \"permanence\". If something doesn´t change for an eternity. It´s in a perfect state.",
+    "first_arc_appearance": {
+      "name": "Kidnapper´s Bog Arc",
+      "description": "As Tanjiro begins to walk the path of the Demon Slayer, his search for the demon who murdered his family leads him to investigate the disappearances of young girls in a nearby town."
+    },
+    "affiliation": {
+      "name": "Twelve Demon Moons",
+      "description": "The twelve demon moons is an organization of the twelve most powerful demons in existence who are under the direct command of the Demon King, Muzan Kibutsuji. They also serve as the main antagonistic faction of Demon Slayer."
+    },
+    "combat_style": [
+      {
+        "id": 10,
+        "name": "Biokinesis",
+        "description": "Muzan´s Blood Demon Art grants him powerful biokinetic abilities, most prominently the ability to manipulate his body at will and shapeshift instantly.",
+        "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/biokinesis.webp"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Tamayo",
+    "age": 500,
+    "gender": "Female",
+    "race": "Demon",
+    "description": "Tamayo is a gentle, wise, and incredibly intelligent demon. Having devoted most of her life to the researching of demons and human transformation into one",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/15.webp",
+    "quote": "I don´t need to be stronger than you to kill you. I can just make you weaker. Just as you´ll do whatever it takes to stay alive, I... No, we, will do whatever it takes to kill you",
+    "first_arc_appearance": {
+      "name": "Asakusa Arc",
+      "description": "Tanjiro and Nezuko cross paths with two powerful demons who fight with magical weapons. Even help from Tamayo and Yushiro may not be enough to defeat these demons who claim to belong to the Twelve Demon Moons."
+    },
+    "affiliation": {
+      "name": "Demon Slayer",
+      "description": "Demon Slayers are members of the Demon Slayer Corps whose main job is to hunt and slay demons."
+    },
+    "combat_style": [
+      {
+        "id": 11,
+        "name": "Blood Bewitchment",
+        "description": "Tamayo can create illusions and induce hallucinations that affect the eyesight of her target by surrounding them with flower patterns.",
+        "img": ""
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Yushiro",
+    "age": 35,
+    "gender": "Male",
+    "race": "Demon",
+    "description": "He only cares for Tamayo and hates when others get in the way of his spending time with her",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/16.webp",
+    "quote": "Someone who never gives to others will someday become unable to receive anything from them.",
+    "first_arc_appearance": {
+      "name": "Asakusa Arc",
+      "description": "Tanjiro and Nezuko cross paths with two powerful demons who fight with magical weapons. Even help from Tamayo and Yushiro may not be enough to defeat these demons who claim to belong to the Twelve Demon Moons."
+    },
+    "affiliation": {
+      "name": "Demon Slayer",
+      "description": "Demon Slayers are members of the Demon Slayer Corps whose main job is to hunt and slay demons."
+    },
+    "combat_style": [
+      {
+        "id": 12,
+        "name": "Blindfold ",
+        "description": "Yushiro´s Blood Demon Art allows him to create paper talismans which possess the ability to mask or reveal something´s presence.",
+        "img": ""
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Susamaru",
+    "age": null,
+    "gender": "Female",
+    "race": "Demon",
+    "description": "Susamaru, also known as the Temari Demon, was one of the two primary antagonists in the Asakusa Arc of Demon Slayer along with Yahaba. She was a demon who was tricked into believing she was a member of the Twelve Demon Moons.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/17.webp",
+    "quote": "Let´s keep playing until dawn! Until your life ends",
+    "first_arc_appearance": {
+      "name": "Asakusa Arc",
+      "description": "Tanjiro and Nezuko cross paths with two powerful demons who fight with magical weapons. Even help from Tamayo and Yushiro may not be enough to defeat these demons who claim to belong to the Twelve Demon Moons."
+    },
+    "affiliation": {
+      "name": "Demons",
+      "description": "Demons are a carnivorous whose primary diet is humans, they are also nocturnal as they are weak to sunlight. Demons have an abnormally powerful physical constitution and potent regenerative abilities."
+    },
+    "combat_style": [
+      {
+        "id": 13,
+        "name": "Hiasobi Temari",
+        "description": "Susamaru´s Blood Demon Art allows her to conjure temari handballs at will. These handballs are extremely durable, being able to withstand being thrown and kicked at high speeds and destroy any objects they come in contact with.",
+        "img": ""
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Yahaba",
+    "age": null,
+    "gender": "Male",
+    "race": "Demon",
+    "description": "Yahaba, also known as the Arrow Demon, was one of the two primary antagonists in the Asakusa Arc of Demon Slayer, along with Susamaru. He was a demon who was tricked into believing he was a member of the Twelve Demon Moons.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/18.webp",
+    "quote": "How will we kill them? Brutally of course!",
+    "first_arc_appearance": {
+      "name": "Asakusa Arc",
+      "description": "Tanjiro and Nezuko cross paths with two powerful demons who fight with magical weapons. Even help from Tamayo and Yushiro may not be enough to defeat these demons who claim to belong to the Twelve Demon Moons."
+    },
+    "affiliation": {
+      "name": "Demons",
+      "description": "Demons are a carnivorous whose primary diet is humans, they are also nocturnal as they are weak to sunlight. Demons have an abnormally powerful physical constitution and potent regenerative abilities."
+    },
+    "combat_style": [
+      {
+        "id": 14,
+        "name": "Koketsu Arrow",
+        "description": "Yahaba´s Blood Demon Art allowed him to conjure and manipulate invisible red arrows by blinking the eyes on each of his palms.",
+        "img": ""
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Kyogai",
+    "age": null,
+    "gender": "Male",
+    "race": "Demon",
+    "description": "Kyogai was a demon formerly affiliated with the Twelve Demon Moons, having previously held the position of Lower Rank Six before Muzan Kibutsuji excommunicated him for reaching his limit as a demon and losing his ability to become stronger.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/19.webp",
+    "quote": "Demons... Exist for a purpose.",
+    "first_arc_appearance": {
+      "name": "Tsuzumi Mansion Arc",
+      "description": "Venturing up a mountain, Tanjiro and his new tag-along companion Zenitsu find a mysterious house. Two children ask them to help find their brother who was abducted inside, but once they go inside the rooms begin to shift, and the house turns into a maze."
+    },
+    "affiliation": {
+      "name": "Twelve Demon Moons",
+      "description": "The twelve demon moons is an organization of the twelve most powerful demons in existence who are under the direct command of the Demon King, Muzan Kibutsuji. They also serve as the main antagonistic faction of Demon Slayer."
+    },
+    "combat_style": [
+      {
+        "id": 15,
+        "name": "Drum Spells",
+        "description": "Kyogai harbored 6 Tsuzumi Drums imbedded in different parts of his body and each one of them, when played, enacts a certain effect on his surroundings.",
+        "img": ""
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Shinobu Kocho",
+    "age": 18,
+    "gender": "Female",
+    "race": "Human",
+    "description": "Shinobu is the current Insect Hashira. After a demon killed her parents, she joined the Demon Slayer Corps in order to protect others from suffering the same fate as her.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/20.webp",
+    "quote": "I once believed that the road of happiness continued forever and ever into the distance. When it was destroyed, I realized for the first time that it lies upon a thin sheet of glass.",
+    "first_arc_appearance": {
+      "name": "Mount Natagumo Arc",
+      "description": "At Mount Natagumo, Tanjiro, Zenitsu and Inosuke battle a terrible family of spider demons. Taking on such powerful enemies demands all the skill and luck from Tanjiro and his companions."
+    },
+    "affiliation": {
+      "name": "Hashira",
+      "description": "The Hashira are the highest-ranking Demon Slayers in the Demon Slayer Corps. They protect humanity against the most dangerous threats that cannot be handled by other Demon Slayers."
+    },
+    "combat_style": [
+      {
+        "id": 16,
+        "name": "Insect Breathing",
+        "description": "Insect Breathing is a Breathing Style that mimics insects, specifically their lethal stings and movements, and replicates it with user´s movements, techniques and abilities. Is a Breathing Style derived from Flower Breathing.",
+        "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/insect-breathing.webp"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Murata",
+    "age": 21,
+    "gender": "Male",
+    "race": "Human",
+    "description": "Not much is known about Murata, however, he does not like it when a hunter of lower rank chastises him. He is somewhat timid, however he does seem braver than most.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/21.webp",
+    "quote": "Tomioka remembered my name... We were together since the Final Selection too...! I know there´s a huge difference between us but we were in the same batch, man...!",
+    "first_arc_appearance": {
+      "name": "Mount Natagumo Arc",
+      "description": "At Mount Natagumo, Tanjiro, Zenitsu and Inosuke battle a terrible family of spider demons. Taking on such powerful enemies demands all the skill and luck from Tanjiro and his companions."
+    },
+    "affiliation": {
+      "name": "Demon Slayer",
+      "description": "Demon Slayers are members of the Demon Slayer Corps whose main job is to hunt and slay demons."
+    },
+    "combat_style": [
+      {
+        "id": 2,
+        "name": "Water Breathing",
+        "description": "Water Breathing is one of the five main Breathing Styles directly derived from Sun Breathing.",
+        "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/water-breathing.webp"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Spider Son",
+    "age": null,
+    "gender": "Male",
+    "race": "Demon",
+    "description": "He was member of the Spider Family, and he takes the form of a giant spider possessing a human head. His face, like Mother and Daughter, had the same facial features of red dots, white skin and hair similar to his \"younger brother\" Rui.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/22.webp",
+    "quote": "There´s nothing to be afraid of. When the poison runs throughout your system and you become a spider, your mind will be gone.",
+    "first_arc_appearance": {
+      "name": "Mount Natagumo Arc",
+      "description": "At Mount Natagumo, Tanjiro, Zenitsu and Inosuke battle a terrible family of spider demons. Taking on such powerful enemies demands all the skill and luck from Tanjiro and his companions."
+    },
+    "affiliation": {
+      "name": "Spider Family",
+      "description": "The Spider Family was a clan of demons on Mount Natagumo with spider-like traits and abilities, formed and led by Lower Rank Five, Rui, of the Twelve Demon Moons."
+    },
+    "combat_style": [
+      {
+        "id": 17,
+        "name": "Poison Manipulation",
+        "description": "Spider demon Son´s most potent and dangerous ability is his power to generate and manipulate deadly poison.",
+        "img": ""
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Spider Daughter",
+    "age": null,
+    "gender": "Female",
+    "race": "Demon",
+    "description": "She was member of the Spider Family, and she is shown to be the most cautious within her \"family,\" having instead opted to observe and stand back rather than jump right into the battle against Demon Slayers.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/23.webp",
+    "quote": "I only ever worried about myself. They were dumb, but I was different. But now I´ve messed up!",
+    "first_arc_appearance": {
+      "name": "Mount Natagumo Arc",
+      "description": "At Mount Natagumo, Tanjiro, Zenitsu and Inosuke battle a terrible family of spider demons. Taking on such powerful enemies demands all the skill and luck from Tanjiro and his companions."
+    },
+    "affiliation": {
+      "name": "Spider Family",
+      "description": "The Spider Family was a clan of demons on Mount Natagumo with spider-like traits and abilities, formed and led by Lower Rank Five, Rui, of the Twelve Demon Moons."
+    },
+    "combat_style": [
+      {
+        "id": 18,
+        "name": "Silk Manipulation",
+        "description": "Like her \"mother\" and Rui, Spider demon Daughter can manipulate threads made from her own cells, this time in a fashion similar to silk that forms a cocoon instead of threads that resemble wires.",
+        "img": ""
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Spider Mother",
+    "age": null,
+    "gender": "Female",
+    "race": "Demon",
+    "description": "She was member of the Spider Family. Like most demons, Mother was cruel, unfeeling, and murderous towards humans. She ruthlessly controlled dozens of Demon Slayers through her threads and manipulated them into killing each other.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/24.webp",
+    "quote": "Arrgh! Die! Die! Die now! If you don´t, I´ll suffer an awful fate!",
+    "first_arc_appearance": {
+      "name": "Mount Natagumo Arc",
+      "description": "At Mount Natagumo, Tanjiro, Zenitsu and Inosuke battle a terrible family of spider demons. Taking on such powerful enemies demands all the skill and luck from Tanjiro and his companions."
+    },
+    "affiliation": {
+      "name": "Spider Family",
+      "description": "The Spider Family was a clan of demons on Mount Natagumo with spider-like traits and abilities, formed and led by Lower Rank Five, Rui, of the Twelve Demon Moons."
+    },
+    "combat_style": [
+      {
+        "id": 19,
+        "name": "Puppetry",
+        "description": "Spider demon Mother could create and manifest threads from the tips of her fingers that can extend to cover an entire mountain. She used her threads in a unique manner; by utilizing them to manipulate bodies like puppets.",
+        "img": ""
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Spider Father",
+    "age": null,
+    "gender": "Male",
+    "race": "Demon",
+    "description": "He was member of the Spider Family. Physically, he was the most formidable of his \"family\", possessing great height and a powerfully built physique.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/25.webp",
+    "quote": "Stay away... from... my... family!",
+    "first_arc_appearance": {
+      "name": "Mount Natagumo Arc",
+      "description": "At Mount Natagumo, Tanjiro, Zenitsu and Inosuke battle a terrible family of spider demons. Taking on such powerful enemies demands all the skill and luck from Tanjiro and his companions."
+    },
+    "affiliation": {
+      "name": "Spider Family",
+      "description": "The Spider Family was a clan of demons on Mount Natagumo with spider-like traits and abilities, formed and led by Lower Rank Five, Rui, of the Twelve Demon Moons."
+    },
+    "combat_style": [
+      {
+        "id": 20,
+        "name": "Metamorphosis",
+        "description": "Spider demon Father possessed the ability to shed his outer skin in order to transform into a more powerful form with increased physical power and regenerative abilities, making him even stronger and durable than in his original form.",
+        "img": ""
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Rui",
+    "age": null,
+    "gender": "Male",
+    "race": "Demon",
+    "description": "Rui is the leader of the Spider Family. He was the primary antagonist in the Mount Natagumo Arc of Demon Slayer. He was a demon affiliated with the Twelve Demon Moons, holding the position of Lower Rank Five",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/26.webp",
+    "quote": "Since I was the one with the most power, there was no one who could protect me... who could shield me. The more powerful I became, the less I remembered about being a human.",
+    "first_arc_appearance": {
+      "name": "Mount Natagumo Arc",
+      "description": "At Mount Natagumo, Tanjiro, Zenitsu and Inosuke battle a terrible family of spider demons. Taking on such powerful enemies demands all the skill and luck from Tanjiro and his companions."
+    },
+    "affiliation": {
+      "name": "Spider Family",
+      "description": "The Spider Family was a clan of demons on Mount Natagumo with spider-like traits and abilities, formed and led by Lower Rank Five, Rui, of the Twelve Demon Moons."
+    },
+    "combat_style": [
+      {
+        "id": 21,
+        "name": "Thread Manipulation",
+        "description": "Rui´s Blood Demon Art allowed him to create thin threads indiscernible from silk from his own flesh and manipulate them however he pleased. He typically extended the threads from his fingertips like a puppet master.",
+        "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/thread-manipulation.webp"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Kagaya Ubuyashiki",
+    "age": 23,
+    "gender": "Male",
+    "race": "Human",
+    "description": "He is the 97th leader of the Demon Slayer Corps known mainly as Oyakata-sama by his subordinates and peers and is also the head of the Ubuyashiki Family.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/27.webp",
+    "quote": "I know what eternity is. Eternity is human feeling. Only human feelings last forever and are undying.",
+    "first_arc_appearance": {
+      "name": "Rehabilitation Training Arc",
+      "description": "The members of the Demon Slayer Corps are sworn to destroy demons wherever they find them, but the condition of Tanjiro´s sister, Nezuko, is a problem. What will the Hashira—the leaders of the Demon Slayer Corps—do about Tanjiro protecting his own demonic sister?"
+    },
+    "affiliation": {
+      "name": "Demon Slayer",
+      "description": "Demon Slayers are members of the Demon Slayer Corps whose main job is to hunt and slay demons."
+    },
+    "combat_style": []
+  },
+  {
+    "id": 28,
+    "name": "Tengen Uzui",
+    "age": 23,
+    "gender": "Male",
+    "race": "Human",
+    "description": "Tengen is the Sound Hashira of the Demon Slayer Corps and a very powerful and skilled combatant. He is an eccentric and flashy individual, always wanting to be \"flamboyant\", possessing a need for everything to be flashy and outstanding.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/28.webp",
+    "quote": "I am a god! You three are trash! That´s the first thing you need to pound into your heads! Drive it in! You´re to turn into dogs if I tell you to! Turn into monkeys if I say so! And let me repeat! I am a god!",
+    "first_arc_appearance": {
+      "name": "Rehabilitation Training Arc",
+      "description": "The members of the Demon Slayer Corps are sworn to destroy demons wherever they find them, but the condition of Tanjiro´s sister, Nezuko, is a problem. What will the Hashira—the leaders of the Demon Slayer Corps—do about Tanjiro protecting his own demonic sister?"
+    },
+    "affiliation": {
+      "name": "Hashira",
+      "description": "The Hashira are the highest-ranking Demon Slayers in the Demon Slayer Corps. They protect humanity against the most dangerous threats that cannot be handled by other Demon Slayers."
+    },
+    "combat_style": [
+      {
+        "id": 22,
+        "name": "Sound Breathing",
+        "description": "A Breathing Style that Tengen created himself. Sound Breathing seemingly combines Tengen´s heightened sense of hearing, his Musical Score technique, his shinobi expertise as well as his dual Nichirin cleavers and his anti-demon bombs.",
+        "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/sound-breathing.webp"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Mitsuri Kanroji",
+    "age": 19,
+    "gender": "Female",
+    "race": "Human",
+    "description": "Mitsuri is the Love Hashira of the Demon Slayer Corps. She is always kind to others, however, despite her gentle and seemingly innocent demeanor, Mitsuri will show no mercy in the face of demons",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/29.webp",
+    "quote": "\tIs it okay for a girl to be this strong? I still worry that someone may ask that, as though I´m not human. In my fear, I was suppressing my strength. But not anymore. Leave this to me. I will protect everyone.",
+    "first_arc_appearance": {
+      "name": "Rehabilitation Training Arc",
+      "description": "The members of the Demon Slayer Corps are sworn to destroy demons wherever they find them, but the condition of Tanjiro´s sister, Nezuko, is a problem. What will the Hashira—the leaders of the Demon Slayer Corps—do about Tanjiro protecting his own demonic sister?"
+    },
+    "affiliation": {
+      "name": "Hashira",
+      "description": "The Hashira are the highest-ranking Demon Slayers in the Demon Slayer Corps. They protect humanity against the most dangerous threats that cannot be handled by other Demon Slayers."
+    },
+    "combat_style": [
+      {
+        "id": 23,
+        "name": "Love Breathing",
+        "description": "Love Breathing incorporates elements of Mitsuri´s superhuman flexibility and her unique whip-like Nichirin Sword. Using this Breathing Style, she can unleash attacks that cover a wide range of motion.",
+        "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/love-breathing.webp"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Kyojuro Rengoku",
+    "age": 20,
+    "gender": "Male",
+    "race": "Human",
+    "description": "Kyojuro Rengoku, the Flame Hashira, possesses exceptional physical attributes and an indomitable spirit, making him a formidable warrior in the Demon Slayer Corps. With his incredible endurance, immense stamina, speed, reflexes, and impeccable combat skills, Rengoku proves to be a monster on the battlefield, surpassing his adversaries and showcasing his mastery of Flame Breathing.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/30.webp",
+    "quote": "Life is a series of decisions. You never have unlimited options or unlimited time to think, but what you choose in that instant defines who you are.",
+    "first_arc_appearance": {
+      "name": "Rehabilitation Training Arc",
+      "description": "The members of the Demon Slayer Corps are sworn to destroy demons wherever they find them, but the condition of Tanjiro´s sister, Nezuko, is a problem. What will the Hashira—the leaders of the Demon Slayer Corps—do about Tanjiro protecting his own demonic sister?"
+    },
+    "affiliation": {
+      "name": "Hashira",
+      "description": "The Hashira are the highest-ranking Demon Slayers in the Demon Slayer Corps. They protect humanity against the most dangerous threats that cannot be handled by other Demon Slayers."
+    },
+    "combat_style": [
+      {
+        "id": 24,
+        "name": "Flame Breathing",
+        "description": "Flame Breathing is one of the five main Breathing Styles directly derived from the Sun Breathing. This breathing style mimics flames, specifically their powerful heat and scorch, and replicates it with the userñ s movements, techniques and abilities.",
+        "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/flame-breathing.webp"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Muichiro Tokito",
+    "age": 14,
+    "gender": "Male",
+    "race": "Human",
+    "description": "He is the Mist Hashira and despite his awkward and unaccommodating personality, Muichiro is a prodigy in the Demon Slayer Corp. Impassive and, at times, obtuse, he tends to think only for himself and operates on logic alone ",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/31.webp",
+    "quote": "Even if I lose my memories, my body will remember that anger that will not leave me until I die. It´s why I trained so hard that I vomited blood to destroy demons. And more... to eradicate them!",
+    "first_arc_appearance": {
+      "name": "Rehabilitation Training Arc",
+      "description": "The members of the Demon Slayer Corps are sworn to destroy demons wherever they find them, but the condition of Tanjiro´s sister, Nezuko, is a problem. What will the Hashira—the leaders of the Demon Slayer Corps—do about Tanjiro protecting his own demonic sister?"
+    },
+    "affiliation": {
+      "name": "Hashira",
+      "description": "The Hashira are the highest-ranking Demon Slayers in the Demon Slayer Corps. They protect humanity against the most dangerous threats that cannot be handled by other Demon Slayers."
+    },
+    "combat_style": [
+      {
+        "id": 25,
+        "name": "Mist Breathing",
+        "description": "A Breathing Style Muichiro learnt from a Mist Breathing cultivator. Mist Breathing Style disorients the enemy and defends the user at the same time with an envelope of mist, and delivers strikes in the blink of an eye.",
+        "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/mist-breathing.webp"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Gyomei Himejima",
+    "age": 27,
+    "gender": "Male",
+    "race": "Human",
+    "description": "He is a Demon Slayer of the Demon Slayer Corps and the current Stone Hashira. Gyomei also serves as the mentor of Genya Shinazugawa. He is stated to be the strongest Demon Slayer in the entire Demon Slayer Corps.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/32.webp",
+    "quote": "We are proud to live and die as human beings. Don´t act like your worthless ideas are supreme and force them on others.",
+    "first_arc_appearance": {
+      "name": "Rehabilitation Training Arc",
+      "description": "The members of the Demon Slayer Corps are sworn to destroy demons wherever they find them, but the condition of Tanjiro´s sister, Nezuko, is a problem. What will the Hashira—the leaders of the Demon Slayer Corps—do about Tanjiro protecting his own demonic sister?"
+    },
+    "affiliation": {
+      "name": "Hashira",
+      "description": "The Hashira are the highest-ranking Demon Slayers in the Demon Slayer Corps. They protect humanity against the most dangerous threats that cannot be handled by other Demon Slayers."
+    },
+    "combat_style": [
+      {
+        "id": 26,
+        "name": "Stone Breathing",
+        "description": "A Breathing Style Gyomei either mastered himself or learned from a cultivator. In his own version of this Breathing Style, Gyomei incorporates his superhuman sense of hearing and physical strength to utilize a spiked flail and axe to use its techniques.",
+        "img": ""
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Obanai Iguro",
+    "age": 21,
+    "gender": "Male",
+    "race": "Human",
+    "description": "He is a Demon Slayer of the Demon Slayer Corps and the current Serpent Hashira. Obanai is a very harsh and strict individual who shows no concern for those who do not abide by the rules of the Demon Slayer Corps.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/33.webp",
+    "quote": "I want to die defeating Muzan, and I pray that it will purify my filthy blood. Then, if I am reborn as a human being in a peaceful world without demons, I will tell you of my feelings for you.",
+    "first_arc_appearance": {
+      "name": "Rehabilitation Training Arc",
+      "description": "The members of the Demon Slayer Corps are sworn to destroy demons wherever they find them, but the condition of Tanjiro´s sister, Nezuko, is a problem. What will the Hashira—the leaders of the Demon Slayer Corps—do about Tanjiro protecting his own demonic sister?"
+    },
+    "affiliation": {
+      "name": "Hashira",
+      "description": "The Hashira are the highest-ranking Demon Slayers in the Demon Slayer Corps. They protect humanity against the most dangerous threats that cannot be handled by other Demon Slayers."
+    },
+    "combat_style": [
+      {
+        "id": 27,
+        "name": "Serpent Breathing",
+        "description": "A Breathing Style Obanai created himself and mastered. He makes use of twists and turns similar to how a serpent slithers to attack. Obanai also learnt to incorporate his pet snake, Kaburamaru, into this Breathing Style, making it extremely effective.",
+        "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/serpent-breathing.webp"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Sanemi Shinazugawa",
+    "age": 21,
+    "gender": "Male",
+    "race": "Human",
+    "description": "He is a Demon Slayer of the Demon Slayer Corps and the current Wind Hashira. Sanemi is also the older brother of Genya Shinazugawa. Sanemi´s cold, rude, and dismissive behavior is the result of losing too many people he cared about in the past.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/34.webp",
+    "quote": "I know how unfair the world is... because good people... die one after another.",
+    "first_arc_appearance": {
+      "name": "Rehabilitation Training Arc",
+      "description": "The members of the Demon Slayer Corps are sworn to destroy demons wherever they find them, but the condition of Tanjiro´s sister, Nezuko, is a problem. What will the Hashira—the leaders of the Demon Slayer Corps—do about Tanjiro protecting his own demonic sister?"
+    },
+    "affiliation": {
+      "name": "Hashira",
+      "description": "The Hashira are the highest-ranking Demon Slayers in the Demon Slayer Corps. They protect humanity against the most dangerous threats that cannot be handled by other Demon Slayers."
+    },
+    "combat_style": [
+      {
+        "id": 28,
+        "name": "Wind Breathing",
+        "description": "A Breathing Style that Sanemi learned and mastered after tutelage from an unknown cultivator. Wind Breathing mimics wind, specifically powerful torrents of air and whirlwinds, and replicates it with the user´s movements, techniques and abilities.",
+        "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/wind-breathing.webp"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Enmu",
+    "age": null,
+    "gender": "Male",
+    "race": "Demon",
+    "description": "He was a demon affiliated with the Twelve Demon Moons, holding the position of Lower Rank One. As Lower Rank One, Enmu was the strongest Lower Rank and closest to matching the strength of the Upper Ranks Demon Moons.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/35.webp",
+    "quote": "All human hearts are the same. So fragile and weak, like glasswork.",
+    "first_arc_appearance": {
+      "name": "Rehabilitation Training Arc",
+      "description": "The members of the Demon Slayer Corps are sworn to destroy demons wherever they find them, but the condition of Tanjiro´s sister, Nezuko, is a problem. What will the Hashira—the leaders of the Demon Slayer Corps—do about Tanjiro protecting his own demonic sister?"
+    },
+    "affiliation": {
+      "name": "Twelve Demon Moons",
+      "description": "The twelve demon moons is an organization of the twelve most powerful demons in existence who are under the direct command of the Demon King, Muzan Kibutsuji. They also serve as the main antagonistic faction of Demon Slayer."
+    },
+    "combat_style": [
+      {
+        "id": 29,
+        "name": "Sleep Inducement",
+        "description": "Enmu´s Blood Demon Art granted him the ability to force anyone into a deep sleep. He can do this through different means, some more subtle than others, but all effectively leaving his foes vulnerable and unable to fight.",
+        "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/sleep-inducement.webp"
+      },
+      {
+        "id": 30,
+        "name": "Dream Manipulation",
+        "description": "Enmu´s Blood Demon Art´s secondary ability was his power to enter, manipulate and control someone´s dreams when they are asleep.",
+        "img": ""
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Akaza",
+    "age": 133,
+    "gender": "Male",
+    "race": "Demon",
+    "description": "He is a demon affiliated with the Twelve Demon Moons, holding the position of Upper Rank Three. As the third highest ranking member of the Twelve Demon Moons, Akaza is an exceptionally powerful demon and the fourth strongest in existence, after Doma, Kokushibo, and Muzan.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/36.webp",
+    "quote": "You misunderstand, Tanjiro. I only despise the weak. I only spit on weaklings. Yes. Weaklings make me sick.",
+    "first_arc_appearance": {
+      "name": "Mugen Train Arc",
+      "description": "After dealing with several demonic enemies aboard the Mugen Train, Tanjiro, Zenitsu and Inosuke must face the demon spirit of the train itself. Even if they can stop the demon train, the minions of Muzan Kibutsuji are still out there and Tanjiro must continue to improve his strength and skills."
+    },
+    "affiliation": {
+      "name": "Twelve Demon Moons",
+      "description": "The twelve demon moons is an organization of the twelve most powerful demons in existence who are under the direct command of the Demon King, Muzan Kibutsuji. They also serve as the main antagonistic faction of Demon Slayer."
+    },
+    "combat_style": [
+      {
+        "id": 31,
+        "name": "Destructive Death",
+        "description": "Akaza´s Blood Demon Art is centered around martial arts, combining the manipulation of destructive shockwaves and the Soryu style martial arts he mastered when he was a human.",
+        "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/destructive-death.webp"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Daki",
+    "age": 126,
+    "gender": "Female",
+    "race": "Demon",
+    "description": "She is a demon affiliated with the Twelve Demon Moons, being the secondary holder of the position of Upper Rank Six, a position she shared with the primary holder, her older brother Gyutaro.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/37.webp",
+    "quote": "Demons never grow old. And they don´t need money to eat. They don´t get sick. They don´t die. They have nothing to lose. We beautiful, powerful demons... can do anything we want!",
+    "first_arc_appearance": {
+      "name": "Entertainment District Arc",
+      "description": "Tanjiro and his friends accompany the Hashira Tengen Uzui to an entertainment district where Tengen´s female ninja agents were gathering information on a demon before they suddenly disappeared. In order to investigate, Tanjiro and the others disguise themselves as women to sneak in."
+    },
+    "affiliation": {
+      "name": "Twelve Demon Moons",
+      "description": "The twelve demon moons is an organization of the twelve most powerful demons in existence who are under the direct command of the Demon King, Muzan Kibutsuji. They also serve as the main antagonistic faction of Demon Slayer."
+    },
+    "combat_style": [
+      {
+        "id": 32,
+        "name": "Obi Sash Manipulation",
+        "description": "Daki´s Blood Demon Art allowed her to create flower-patterned obi sashes from her flesh, as well as freely manipulating them at will",
+        "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/obi-manipulation.webp"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Gyutaro",
+    "age": 126,
+    "gender": "Male",
+    "race": "Demon",
+    "description": "As the real Upper Rank Six, Gyutaro was an extremely powerful demon with over a century´s worth of combat experience under his belt, having killed and devoured 15 Hashira in the past",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/38.webp",
+    "quote": "The sufferings of my past were lessons on what to do to others as revenge! If I don´t cause misery equal to my own unhappiness, I´ll never balance the scales!",
+    "first_arc_appearance": {
+      "name": "Entertainment District Arc",
+      "description": "Tanjiro and his friends accompany the Hashira Tengen Uzui to an entertainment district where Tengen´s female ninja agents were gathering information on a demon before they suddenly disappeared. In order to investigate, Tanjiro and the others disguise themselves as women to sneak in."
+    },
+    "affiliation": {
+      "name": "Twelve Demon Moons",
+      "description": "The twelve demon moons is an organization of the twelve most powerful demons in existence who are under the direct command of the Demon King, Muzan Kibutsuji. They also serve as the main antagonistic faction of Demon Slayer."
+    },
+    "combat_style": [
+      {
+        "id": 33,
+        "name": "Blood Manipulation",
+        "description": "Gyutaro´s Blood Demon Art allowed him to manipulate his own body´s blood in various ways. He was shown to generate them from his flesh or from open wounds on his body or release blood at will from his veins.",
+        "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/blood-manipulation.webp"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Doma",
+    "age": 133,
+    "gender": "Male",
+    "race": "Demon",
+    "description": "He is a demon affiliated with the Twelve Demon Moons, holding the second highest position, Upper Rank Two. Doma is outwardly friendly and cheery, possessing an approachable and charismatic air.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/39.webp",
+    "quote": "You know, everyone´s afraid of dying. And that´s why I eat them all up. Now they get to live together with me. Forever.",
+    "first_arc_appearance": {
+      "name": "Entertainment District Arc",
+      "description": "Tanjiro and his friends accompany the Hashira Tengen Uzui to an entertainment district where Tengen´s female ninja agents were gathering information on a demon before they suddenly disappeared. In order to investigate, Tanjiro and the others disguise themselves as women to sneak in."
+    },
+    "affiliation": {
+      "name": "Twelve Demon Moons",
+      "description": "The twelve demon moons is an organization of the twelve most powerful demons in existence who are under the direct command of the Demon King, Muzan Kibutsuji. They also serve as the main antagonistic faction of Demon Slayer."
+    },
+    "combat_style": [
+      {
+        "id": 34,
+        "name": "Cryokinesis",
+        "description": "Doma´s Blood Demon Art grants him extremely powerful cryokinesis. He can generate ice and frost from his flesh and blood and can spawn it anywhere in his vicinity, as well as manipulating it at will.",
+        "img": ""
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Hantengu",
+    "age": 200,
+    "gender": "Male",
+    "race": "Demon",
+    "description": "He is a demon affiliated with the Twelve Demon Moons, holding the position of Upper Rank Four. Hantengu seems to believe that he is completely innocent despite the obvious evidence pointing toward his numerous crimes",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/40.webp",
+    "quote": "You brutal fiends who torment the weak... Atrocious... Offensive... to the extreme. Damn you, awful villains...",
+    "first_arc_appearance": {
+      "name": "Swordsmith Village Arc",
+      "description": "Tanjiro journeys to a village of swordsmiths and has to explain how his sword was so badly damaged to Hotaru Haganezuka, the smith who made it. While Tanjiro waits for his sword to be repaired, enemies close in..."
+    },
+    "affiliation": {
+      "name": "Twelve Demon Moons",
+      "description": "The twelve demon moons is an organization of the twelve most powerful demons in existence who are under the direct command of the Demon King, Muzan Kibutsuji. They also serve as the main antagonistic faction of Demon Slayer."
+    },
+    "combat_style": [
+      {
+        "id": 35,
+        "name": "Emotion Manifestation",
+        "description": "Hantengu´s Blood Demon Art allows him to manifest his emotions as younger clones of himself. Each clone personifies a core emotion, which can be identified by a kanji on their tongue. These clones all have different appearances, abilities, and weapons.",
+        "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/emotion-manifestation.webp"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Gyokko",
+    "age": 133,
+    "gender": "Male",
+    "race": "Demon",
+    "description": "He is a demon affiliated with the Twelve Demon Moons, holding the position of Upper Rank Five. Gyokko is an easily excitable demon, constantly fawning over new inspirations for what he deems his \"art\" or what he finds to be sublime, sometimes even going against his initial impressions.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/41.webp",
+    "quote": "Hyo, hyo! What a childish provocation! Did you think I, Gyokko, would be undone with such prattle? You seem desperate. It´s embarrassing.",
+    "first_arc_appearance": {
+      "name": "Swordsmith Village Arc",
+      "description": "Tanjiro journeys to a village of swordsmiths and has to explain how his sword was so badly damaged to Hotaru Haganezuka, the smith who made it. While Tanjiro waits for his sword to be repaired, enemies close in..."
+    },
+    "affiliation": {
+      "name": "Twelve Demon Moons",
+      "description": "The twelve demon moons is an organization of the twelve most powerful demons in existence who are under the direct command of the Demon King, Muzan Kibutsuji. They also serve as the main antagonistic faction of Demon Slayer."
+    },
+    "combat_style": [
+      {
+        "id": 36,
+        "name": "Porcelain Vase Spells",
+        "description": "Gyokko´s Blood Demon Art permit him spawn pots anywhere around. Gyokko is able to teleport into different pots to avoid attacks and also he can summon grotesque fish like Demons from his pots.",
+        "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/porcelain-vase.webp"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Hotaru Haganezuka",
+    "age": 37,
+    "gender": "Male",
+    "race": "Human",
+    "description": "He is a swordsmith affiliated with the Demon Slayer Corps. Hotaru is a rather hot-blooded individual. He seems to show very little care, if any, about anything besides the swords he creates. His passion for swords is very strong.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/42.webp",
+    "quote": "I don´t care! That doesn´t matter! It´s your fault! It´s all your fault! The katana broke because you were weak! Otherwise, would my katana break?! I am going to kill you!",
+    "first_arc_appearance": {
+      "name": "Final Selection",
+      "description": "The first Arc of the series, focusing on Tanjiro Kamado´s path after his family was slaughtered. The Arc ends after he passes the Final Selection test and receives his Nichirin blade."
+    },
+    "affiliation": {
+      "name": "Demon Slayer",
+      "description": "Demon Slayers are members of the Demon Slayer Corps whose main job is to hunt and slay demons."
+    },
+    "combat_style": []
+  },
+  {
+    "id": 43,
+    "name": "Nakime",
+    "age": 113,
+    "gender": "Female",
+    "race": "Demon",
+    "description": "She is a demon who owns and controls the Infinity Castle and serves directly under Muzan Kibutsuji. Nakime is aloof and taciturn, almost never speaking and displaying little to no emotion or will outside of obeying orders. She was extremely loyal to Muzan, listening and following his every order faultlessly.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/43.webp",
+    "quote": "... I decline.",
+    "first_arc_appearance": {
+      "name": "Mugen Train Arc",
+      "description": "After dealing with several demonic enemies aboard the Mugen Train, Tanjiro, Zenitsu and Inosuke must face the demon spirit of the train itself. Even if they can stop the demon train, the minions of Muzan Kibutsuji are still out there and Tanjiro must continue to improve his strength and skills."
+    },
+    "affiliation": {
+      "name": "Twelve Demon Moons",
+      "description": "The twelve demon moons is an organization of the twelve most powerful demons in existence who are under the direct command of the Demon King, Muzan Kibutsuji. They also serve as the main antagonistic faction of Demon Slayer."
+    },
+    "combat_style": [
+      {
+        "id": 37,
+        "name": "Infinity Castle Manipulation",
+        "description": "Nakime´s Blood Demon Art takes the form of an extra-dimensional space that houses a fortress of immense scale. As its owner, Nakime possesses absolute dominion over the space, being able to manipulate and alter it at will by simply strumming her biwa.",
+        "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/infinite-castle.webp"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Kokushibo",
+    "age": 480,
+    "gender": "Male",
+    "race": "Demon",
+    "description": "He is a demon affiliated with the Twelve Denon Moons, holding the highest position, Upper Rank One. He has battled countless Demon Slayers and has amassed vast experience and knowledge over his near 500-year long life.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/44.webp",
+    "quote": "You opened a path... to reach further heights.... and you abandoned it.... So weak.",
+    "first_arc_appearance": {
+      "name": "Swordsmith Village Arc",
+      "description": "Tanjiro journeys to a village of swordsmiths and has to explain how his sword was so badly damaged to Hotaru Haganezuka, the smith who made it. While Tanjiro waits for his sword to be repaired, enemies close in..."
+    },
+    "affiliation": {
+      "name": "Twelve Demon Moons",
+      "description": "The twelve demon moons is an organization of the twelve most powerful demons in existence who are under the direct command of the Demon King, Muzan Kibutsuji. They also serve as the main antagonistic faction of Demon Slayer."
+    },
+    "combat_style": [
+      {
+        "id": 38,
+        "name": "Moon Breathing",
+        "description": "Kokushibo is the first demon that utilized Breathing Styles. His Moon Breathing is one of the most dangerous and powerful ones. He can create many chaotic crescent moon blades when slashing that vary in length and size in crescent shaped sword attacks.",
+        "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/moon-breathing.webp"
+      },
+      {
+        "id": 39,
+        "name": "Crescent Moon Blades",
+        "description": "Complementing his Moon Breathing, Kokushibo´s Blood Demon Art allows him to create and manipulate dozens of sharp blades shaped like traditional crescent moons from his flesh katana.",
+        "img": ""
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Yoriichi",
+    "age": 24,
+    "gender": "Male",
+    "race": "Human",
+    "description": "He is a Demon Slayer who lived nearly 500 years ago during the Sengoku era. He was the most powerful Demon Slayer to have ever existed.",
+    "img": "https://www.demonslayer-api.com/api/v1/characters/images/45.webp",
+    "quote": "My dream was to live a quiet life with my family in a small house where we would sleep side by side. That would have been enough. But even that did not come true. Demons exist in this beautiful world.",
+    "first_arc_appearance": {
+      "name": "Swordsmith Village Arc",
+      "description": "Tanjiro journeys to a village of swordsmiths and has to explain how his sword was so badly damaged to Hotaru Haganezuka, the smith who made it. While Tanjiro waits for his sword to be repaired, enemies close in..."
+    },
+    "affiliation": {
+      "name": "Demon Slayer",
+      "description": "Demon Slayers are members of the Demon Slayer Corps whose main job is to hunt and slay demons."
+    },
+    "combat_style": [
+      {
+        "id": 1,
+        "name": "Sun Breathing",
+        "description": "Breathing Style only known and taught by the Kamado Family, later revealed to be the first Breathing Style",
+        "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/sun-breathing.webp"
+      }
+    ]
+  }
+]
