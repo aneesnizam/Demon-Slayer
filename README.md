@@ -4,7 +4,7 @@
 
 ### ✨ Live Demo
 
-[View the live website here!](https://your-username.github.io/your-repo-name/)
+[View the live website here!](https://demonslayer.deno.dev)
 
 ---
 
@@ -25,4 +25,4 @@
 
 ---
 
-**Live Demo:** [View the website here](https://demonslayer.deno.dev)
+
